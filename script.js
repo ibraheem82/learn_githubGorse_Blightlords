@@ -1,1 +1,0 @@
-console.log("Tinubu is the president of nigeria");
